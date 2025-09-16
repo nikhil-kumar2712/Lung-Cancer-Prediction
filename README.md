@@ -2,7 +2,7 @@
 
 This project aims to detect **lung cancer** using two complementary approaches:  
 
-1. **Deep Learning on CT-Scan Images** – to classify different lung cancer types from medical images.  
+1. **Deep Learning on CT-Scan Images** – to classify different lung cancer types from medical images. The dataset can be found here [Link](https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images?resource=download).
 2. **Traditional Machine Learning on Patient Survey Data** – to predict lung cancer risk based on patient attributes.  
 
 By combining imaging data with clinical data, the project demonstrates a hybrid AI system for improved diagnosis and risk prediction.
